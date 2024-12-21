@@ -11,6 +11,11 @@ sidebar: auto
 - **Dates:** January 29-30th, 2025
 - **Location:** Remote
 
+### [MadVue](https://madvue.es/)
+
+- **Dates:** May 29th, 2025
+- **Location:** Madrid, Spain
+
 ### [PragVue](https://pragvue.com/)
 
 - **Dates:** September 23rd, 2025
@@ -28,6 +33,11 @@ Looking for in-person training? Look no further. You will be able to find worksh
 
 - Dates: Open until December 23rd, 2024
 - Location: Remote
+
+### [MadVue](https://bit.ly/MadVueCFP)
+
+- Dates: Open until February 14th, 2025
+- Location: Madrid, Spain
 
 ---
 
